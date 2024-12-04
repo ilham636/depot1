@@ -1,0 +1,31 @@
+.container h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .card-img-top {
+    max-height: 150px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+  }
+  
+  .btn {
+    width: 100%;
+    font-size: 0.8rem;
+    margin-top: 10px;
+  }
+  
